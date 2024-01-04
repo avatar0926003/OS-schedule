@@ -1,0 +1,3 @@
+C:\Users\Willie\source\repos\AOS_HW1\Debug\AOS_HW1.exe
+C:\Users\Willie\source\repos\AOS_HW1\Debug\AOS_HW1.pdb
+F:\AOS_HW1\Debug\AOS_HW1.exe
